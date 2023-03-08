@@ -17,3 +17,10 @@ h1 + p , h3 + p{
 header div{
     margin: 1em 0;
 }
+h2{
+    text-transform: uppercase;
+    border-bottom: 2px solid #000;
+}
+header > p{
+    font-size: 1.25rem;
+}
