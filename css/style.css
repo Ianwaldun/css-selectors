@@ -37,3 +37,12 @@ html rel="external"{
 section > main{
     margin-bottom: 3rem;
 }
+main > section h2 + p strong {
+    color: purple;
+}
+li:nth-child(2){
+    color: purple;
+}
+dl div:last-child{
+    background-color: #ccc
+}
