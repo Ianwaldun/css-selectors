@@ -24,3 +24,10 @@ h2{
 header > p{
     font-size: 1.25rem;
 }
+.profile-pic{
+    width: 150px;
+    border-radius: 50%;
+}
+html-rel="external"{
+    color: purple;
+}
