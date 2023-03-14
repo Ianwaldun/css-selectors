@@ -28,6 +28,12 @@ header > p{
     width: 150px;
     border-radius: 50%;
 }
-html-rel="external"{
+html rel="external"{
     color: purple;
+}
+#section-experience{
+    border-bottom: 2px dashed #ccc;
+}
+section > main{
+    margin-bottom: 3rem;
 }
